@@ -142,7 +142,7 @@ cv2.destroyAllWindows()
 
 ### **OUTPUT:**
 
-<img width="796" height="594" alt="image" src="https://github.com/user-attachments/assets/334c6b22-3ec3-4c0e-ab87-f4b6fa1f5303" />
+![WhatsApp Image 2025-10-18 at 11 29 31_802ad0db](https://github.com/user-attachments/assets/39e9785c-f4e8-48da-a3b2-fb4daa25b130)
 
 
 ---
